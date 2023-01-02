@@ -1,0 +1,14 @@
+{
+  "name": "museum-lp",
+  "version": "1.0.0",
+  "description": "Museum Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch styles/main.scss styles/style.css"
+  },
+  "author": "Mariia Kovach",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
